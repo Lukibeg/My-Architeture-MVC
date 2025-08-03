@@ -2,7 +2,6 @@
 
 namespace app\model;
 
-
 class UsuarioModel{
     public function findById($value)
     {

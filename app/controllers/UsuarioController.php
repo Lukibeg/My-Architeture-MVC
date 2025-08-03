@@ -3,7 +3,7 @@
 namespace app\controllers;
 
 use function app\helpers\view;
-use app\Model\UsuarioModel;
+use app\model\UsuarioModel;
 
 
 class UsuarioController
